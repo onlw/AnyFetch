@@ -70,7 +70,7 @@
 
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/your-username/AnyFetch.git
+   git clone https://github.com/onlw/AnyFetch.git
    cd AnyFetch
    ```
 2. **安装前端依赖**：
