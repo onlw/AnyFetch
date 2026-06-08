@@ -1,0 +1,18 @@
+[[permission]]
+identifier = "allow-all-commands"
+description = "Allow all custom commands"
+commands.allow = [
+    "check_dependencies",
+    "install_yt_dlp",
+    "fetch_info",
+    "start_download_task",
+    "cancel_download",
+    "get_settings",
+    "save_settings",
+    "load_settings_from_disk",
+    "get_history",
+    "add_to_history",
+    "clear_history",
+    "open_file_location",
+    "get_default_download_dir"
+]
